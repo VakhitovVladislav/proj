@@ -8,8 +8,6 @@ public class MainApp {
 
     }
     public static void dosomething() {
-        System.out.println(10);
-        System.out.println(1);
-        System.out.println(1);
+        System.out.println("Hello World");
     }
 }
